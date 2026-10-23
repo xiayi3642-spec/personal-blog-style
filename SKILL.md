@@ -11,8 +11,8 @@ description: 使用“个人博客风格”写作或改写中文文章：从真�
 
 根据任务读取参考资料：
 
-- 新写文章或大幅改写：读完 [Writing-DNA](references/Writing-DNA.md)、[语言 DNA](references/语言DNA.md)、[结构模板](references/文章结构模板.md)、[认知框架](references/写作视角与认知框架.md) 和 [视觉规范](references/视觉风格指南.md)。
-- 短段落改写：至少读取 `Writing-DNA.md` 与 `语言DNA.md`。
+- 新写文章或大幅改写：读完 [Writing-DNA](references/Writing-DNA.md)、[语言 DNA](references/language-dna.md)、[结构模板](references/structure-patterns.md)、[认知框架](references/cognitive-framework.md) 和 [视觉规范](references/visual-style-guide.md)。
+- 短段落改写：至少读取 `Writing-DNA.md` 与 `language-dna.md`。
 - 需要校准不同题材或体裁时：再从 [20 篇写法卡片](references/style-cards.md) 中选择 3—5 篇最接近本次任务的卡片。
 - 需要核对公开来源入口时：读取 [来源索引](references/sources.csv)。
 
