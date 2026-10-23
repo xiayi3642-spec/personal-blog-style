@@ -1,0 +1,4 @@
+interface:
+  display_name: "个人博客风格"
+  short_description: "把真实材料写成自然、克制、有判断形成过程的个人博客随笔"
+  default_prompt: "使用 $personal-blog-style 根据我的真实材料写一篇个人观察型中文博客文章。"
